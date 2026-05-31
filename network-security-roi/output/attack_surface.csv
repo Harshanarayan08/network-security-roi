@@ -1,0 +1,4 @@
+vector,severity,cvss_score,time_to_execute,lab_validated
+ARP Spoofing (Primary),CRITICAL,8.1,<90 seconds on unprotected flat LAN,True
+HTTP Credential Interception,CRITICAL,9.1,Real-time during session,True
+Lateral Movement,HIGH,7.5,Minutes to hours post-compromise,False
